@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hikmatasifli" alt="hikmatasifli" /></a> </p>
 
-- 🌱 I’m currently learning **React, Node.js**
+- 🌱 I’m currently learning **ReactJS and Node.js**
 
-- 💬 Ask me about **React and Javascript**
+- 💬 Ask me about **ReactJS and Javascript**
 
 - 📫 How to reach me **hikmatasifli@gmail.com**
 
