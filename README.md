@@ -1,6 +1,5 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Hikmat</h1>
-  <img height=200px src="https://avatars.githubusercontent.com/u/139626288?v=4"></br>
 </div>
 
 <div align=center>
