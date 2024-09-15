@@ -1,6 +1,12 @@
 <div align="center">
-  <h1 align="center">Hi 👋, I'm Hikmat</h1>
+  <h1>Hi 👋, I'm Hikmat</h1>
+  <p>
+    Hey, I'm a React.js Frontend Developer. I am a web developer with high enthusiasm 
+    and patience to get new skills and make my knowledge deeper. I also have 
+    experience as a Pentester, focusing on identifying vulnerabilities in web applications.
+  </p>
 </div>
+
 
 <div align=center>
   <h2>👑Trophy👑</h2>
