@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Hikmat</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijan</h3>
+<div align="center">
+  <h1 align="center">Hi 👋, I'm Hikmat</h1>
+  <img height=200px src="https://avatars.githubusercontent.com/u/139626288?v=4"></br>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hikmatasifli" alt="hikmatasifli" /></a> </p>
+<div align=center>
+  <h2>My Trophy</h2>
+  <img src = "https://github-profile-trophy.vercel.app/?username=hikmatasifli&theme=algolia&column=-1&rank=-?">
+</div>
 
 - 🌱 I’m currently learning **ReactJS and Node.js**
 
@@ -9,18 +14,32 @@
 
 - 📫 How to reach me **hikmatasifli@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- <div align=center> 
+    <h2>💖Stats💖</h2>
+    <img height=150px src="https://streak-stats.demolab.com?user=hikmatasifli&theme=algolia"></br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hikmatasifli&theme=algolia">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hikmatasifli&theme=algolia">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hikmatasifli&theme=algolia">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hikmatasifli&theme=algolia">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hikmatasifli&theme=algolia">
+  </div>
+
+<div align="center">
+  <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hikmatasifli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hikmatasifli" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hikmat-asifli-9b1315324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hikmat-asifli-9b1315324" height="30" width="40" /></a>
 <a href="https://instagram.com/hikmatasifli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hikmatasifli" height="30" width="40" /></a>
 </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<div align="center">
+  <h3>💎Programing Langs💎</h3>
+    <img src="https://skillicons.dev/icons?i=html,js,babel,css,sass,bootstrap,react,vite,md,nodejs,express,python,">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hikmatasifli&show_icons=true&locale=en&layout=compact" alt="hikmatasifli" /></p>
+  <h3>🧶Databases🧶</h3>
+   <img src="https://skillicons.dev/icons?i=mongodb">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hikmatasifli&show_icons=true&locale=en" alt="hikmatasifli" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hikmatasifli&" alt="hikmatasifli" /></p>
+   <h3>🏏Tools🏏</h3>
+    <img src="https://skillicons.dev/icons?i=github,git,npm,vscode,visualstudio,postman,figma,netlify,vercel,stackoverflow,discord">
+</div>
