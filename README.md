@@ -151,6 +151,22 @@ I architect low-latency systems, automate what matters, and break what shouldn't
 ## 🚀 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/HikmatAsifli/xssFinder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HikmatAsifli&repo=xssFinder&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/HikmatAsifli/Port-Scanner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HikmatAsifli&repo=Port-Scanner&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/HikmatAsifli/ddos_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HikmatAsifli&repo=ddos_project&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/HikmatAsifli?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Repositories-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0d1117&border=00d4ff" />
   </a>
